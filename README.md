@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Hello!
+     👋
 
 I am a Procurement Engineer by training I have worked in Supply Chain Engineering. I have worked for Tire, Rubber, Glass, Cement, Marine machinery manufacturing companies.Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
 Used the Microsoft Navision Dynamics NAV and RAMCO Cloud ERP in previous job roles to handle procurement process.
@@ -9,5 +11,3 @@ Used the Microsoft Navision Dynamics NAV and RAMCO Cloud ERP in previous job rol
 - 🤔 I’m looking for help with Back End Web Development...
 - 💬 Ask me about Procurement and Contracts...
 - 📫 How to reach me: kunalvermaoffice@gmail.com...
-
-
