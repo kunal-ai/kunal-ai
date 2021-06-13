@@ -1,7 +1,6 @@
 ![Untitled1](https://user-images.githubusercontent.com/55757204/121797990-91894900-cbd8-11eb-80e0-b0da31f5bb73.png)
 
-### Hello!
-     👋
+### Hello!👋
 I am a Procurement Engineer by training I have worked in Supply Chain Engineering. I have worked for Tire, Rubber, Glass, Cement, Marine machinery manufacturing companies.Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
 Used the Microsoft Navision Dynamics NAV and RAMCO Cloud ERP in previous job roles to handle procurement process.
 Check out my projects on procurement in Projects Tab here at GitHub.
