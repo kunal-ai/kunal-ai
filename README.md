@@ -4,6 +4,7 @@
      👋
 I am a Procurement Engineer by training I have worked in Supply Chain Engineering. I have worked for Tire, Rubber, Glass, Cement, Marine machinery manufacturing companies.Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
 Used the Microsoft Navision Dynamics NAV and RAMCO Cloud ERP in previous job roles to handle procurement process.
+Check out my projects on procurement in Projects Tab here at GitHub.
 
 - 🔭 I’m currently working on Front End Web Development and Procurement Processes...
 - 🌱 I’m currently learning Back End Web Development...
