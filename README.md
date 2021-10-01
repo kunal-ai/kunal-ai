@@ -1,4 +1,5 @@
-![Untitled1](https://user-images.githubusercontent.com/55757204/121797990-91894900-cbd8-11eb-80e0-b0da31f5bb73.png)
+
+![Untitled1](https://raw.githubusercontent.com/kunal-ai/kunal-ai/main/Main%20Page.png)
 
 ### Hello!👋
 I am a Procurement Engineer by training and I have worked in Supply Chain Engineering. I have worked for Tire, Rubber, Glass, Cement, Marine machinery manufacturing companies.Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
