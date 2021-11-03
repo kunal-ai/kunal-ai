@@ -14,8 +14,13 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 - 📫 How to reach me: kunalvermaoffice@gmail.com.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
 
-Skills-
-- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-- https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+<details>
+<summary>More Skills</summary>
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+...
+</details>
 
 ![Untitled2](https://user-images.githubusercontent.com/55757204/121798050-e4fb9700-cbd8-11eb-84d8-87ca0d18a29d.png)
