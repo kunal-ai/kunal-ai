@@ -15,8 +15,7 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
 
 Skills-
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-
+- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+- https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 ![Untitled2](https://user-images.githubusercontent.com/55757204/121798050-e4fb9700-cbd8-11eb-84d8-87ca0d18a29d.png)
