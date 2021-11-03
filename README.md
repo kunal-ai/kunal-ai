@@ -24,7 +24,3 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-<details>
-![Untitled2](https://user-images.githubusercontent.com/55757204/121798050-e4fb9700-cbd8-11eb-84d8-87ca0d18a29d.png)
