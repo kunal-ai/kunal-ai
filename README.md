@@ -24,5 +24,14 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username={https://github.com/kunal-ai}&theme=blue-green)
+## &#x1f4c8; GitHub Stats
 
+<br>
+
+<a href="https://github.com/kunak-ai">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-air&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/kunal-ai">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kunal-ai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
