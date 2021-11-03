@@ -24,5 +24,5 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username={kunal-ai}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username={https://github.com/kunal-ai}&theme=blue-green)
 
