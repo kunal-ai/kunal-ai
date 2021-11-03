@@ -14,7 +14,7 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 
 ## 📫 Contact : 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
-- ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  kunalvermaoffice@gmail.com.
+- ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)  kunalvermaoffice@gmail.com.
 
 ## 💼 Skills
 
