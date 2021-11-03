@@ -12,6 +12,6 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 - 🤔 I’m looking for help with Back End Web Development.
 - 💬 Ask me about Procurement and Contracts.
 - 📫 How to reach me: kunalvermaoffice@gmail.com.
-- Linkedin - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
 
 ![Untitled2](https://user-images.githubusercontent.com/55757204/121798050-e4fb9700-cbd8-11eb-84d8-87ca0d18a29d.png)
