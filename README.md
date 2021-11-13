@@ -15,7 +15,7 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 
 ## 📫 Posts / Articles : 
 
-Vendor Registration - https://www.linkedin.com/pulse/vendor-registration-kunal-verma
+Vendor Registration App - https://www.linkedin.com/pulse/vendor-registration-kunal-verma
 
 ## 📫 Contact : 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
