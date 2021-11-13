@@ -13,7 +13,7 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 - 💬 Ask me about Procurement and Contracts.
 
 
-## 📫 Posts / Articles : 
+## 📄 Posts / Articles : 
 
 Vendor Registration App - https://www.linkedin.com/pulse/vendor-registration-kunal-verma
 
