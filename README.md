@@ -6,11 +6,11 @@ I am a Procurement Engineer by training and I have worked in Supply Chain Engine
 Used the Microsoft Navision Dynamics NAV and RAMCO Cloud ERP in previous job roles to handle procurement process.
 Check out my projects on procurement in Projects Tab here at GitHub.
 
-- 🔭 I’m currently working on Front End Web Development and Procurement Processes.
-- 🌱 I’m currently learning Back End Web Development.
-- 👯 I’m looking to collaborate on Web Development and Procurement.
-- 🤔 I’m looking for help with Back End Web Development.
-- 💬 Ask me about Procurement and Contracts.
+- I’m currently working on Full Stack Web Development.
+- I’m currently learning Back End Web Development.
+- I’m looking to collaborate on Web Development and Procurement.
+- I’m looking for help with Back End Web Development.
+- Ask me about Procurement and Contracts.
 
 
 ## 📄 Posts / Articles : 
