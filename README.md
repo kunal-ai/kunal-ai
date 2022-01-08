@@ -1,5 +1,4 @@
-
-![Web Devlopment](https://user-images.githubusercontent.com/55757204/141191484-8f6b7c38-9b18-4281-86e6-cfad6ff36b65.png)
+![main page 2 img](https://user-images.githubusercontent.com/55757204/148624284-e9986b05-7799-4ada-beb6-cc1ee97a7fe5.png)
 
 ### Hello!👋
 I am a Procurement Engineer by training and I have worked in Supply Chain Engineering. I have worked for Tire, Rubber, Glass, Cement, Marine machinery manufacturing companies.Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
