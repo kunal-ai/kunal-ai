@@ -17,6 +17,7 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 Applications for Procurement / Supply chain management
 
 Vendor Registration App - https://www.linkedin.com/pulse/vendor-registration-kunal-verma
+
 Comparative Statement App - https://www.linkedin.com/pulse/comparative-statement-app-kunal-verma/
 
 ## 📫 Contact : 
