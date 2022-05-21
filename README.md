@@ -7,9 +7,9 @@ Check out my projects on procurement in Projects Tab here at GitHub.
 
 - I’m currently working on Full Stack Web Development.
 - I’m currently learning Back End Web Development.
-- I’m looking to collaborate on Web Development and Procurement.
+- I’m looking to collaborate on Web Development and Supply chain management.
 - I’m looking for help with Back End Web Development.
-- Ask me about Procurement and Contracts.
+- Ask me about Supply chain management.
 
 
 ## 📄 Posts / Articles : 
