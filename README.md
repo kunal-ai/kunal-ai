@@ -3,7 +3,7 @@
 ### Hello!👋
 I am a Mechanical Engineer, currently working as an Application Engineer and I have worked in Supply Chain. I have worked for Tire, Rubber, Glass, Cement, Marine, Membranes and Water Treatment machinery manufacturing companies. Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
 Used the Microsoft Navision Dynamics NAV , RAMCO Cloud ERP, Macola ERP, Macola Shop Floor Control, Crystal Reports for managing procurement / engineering process.
-Check out my projects on procurement in Projects Tab here at GitHub.
+Check out my projects on procurement/ supply chain.
 
 - I’m currently working on Full Stack Web Development.
 - I’m currently learning Back End Web Development.
