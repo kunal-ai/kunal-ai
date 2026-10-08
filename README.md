@@ -1,4 +1,3 @@
-# Hi, I'm Kunal Verma 👋
 
 **Mechanical Engineer · Manufacturing & Supply Chain · Building simple digital tools for industrial workflows**
 
