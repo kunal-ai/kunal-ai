@@ -70,17 +70,3 @@ Along the way I kept running into the same problem: important manufacturing and 
 
 <p align="center"><i>Thanks for stopping by!</i></p>
 
-
-## 📫 Contact : 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
-- ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)  kunalvermaoffice@gmail.com.
-
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/kunal-ai">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-ai&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
