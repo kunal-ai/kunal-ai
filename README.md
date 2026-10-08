@@ -1,24 +1,73 @@
-![main page 2 img](https://user-images.githubusercontent.com/55757204/148624284-e9986b05-7799-4ada-beb6-cc1ee97a7fe5.png)
+# Hi, I'm Kunal Verma 👋
 
-### Hello!👋
-I am a Mechanical Engineer, currently working as an Application Engineer and I have worked in Supply Chain. I have worked for Tire, Rubber, Glass, Cement, Marine, Membranes and Water Treatment machinery manufacturing companies. Besides this I have also worked on Infrastructure procurement, well verse with P2P process in procurement.
-Used the Microsoft Navision Dynamics NAV , RAMCO Cloud ERP, Macola ERP, Macola Shop Floor Control, Crystal Reports for managing procurement / engineering process.
-Check out my projects on procurement/ supply chain.
+**Mechanical Engineer · Manufacturing & Supply Chain · Building simple digital tools for industrial workflows**
 
-- I’m currently working on Full Stack Web Development.
-- I’m currently learning Back End Web Development.
-- I’m looking to collaborate on Web Development and ERP Development.
-- I’m looking for help with Back End Web Development.
-- Ask me about Supply chain management / ERP / Mechanical Engineer .
+📍 San Diego, CA, USA &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kunal-verma-68a316194) &nbsp;|&nbsp; ✉️ kunalvermaoffice@gmail.com
 
+---
 
-## 📄 Posts / Articles : 
+## About Me
 
-Applications for Procurement / Supply chain management
+I'm a mechanical engineer with 10+ years across manufacturing operations, engineering project delivery, and supply chain in the USA and India. My work has covered water treatment systems (RO, NF, EDI), industrial machinery, and automotive and marine components.
 
-Vendor Registration App - https://www.linkedin.com/pulse/vendor-registration-kunal-verma
+Along the way I kept running into the same problem: important manufacturing and procurement decisions were made from scattered spreadsheets. This GitHub is where I build small web tools that digitize those workflows, such as vendor registration, comparative statements, and procure-to-pay (P2P) checklists.
 
-Comparative Statement App - https://www.linkedin.com/pulse/comparative-statement-app-kunal-verma/
+- 🏭 **Engineering & Manufacturing:** NPI, ECO/ECN, P&IDs, BOMs, AutoCAD, GD&T, PLC/HMI, Factory Acceptance Testing (FAT)
+- 🔗 **Supply Chain:** strategic sourcing, RFQs, Technical Bid Analysis, supplier quality, PPAP
+- ✅ **Quality:** root cause analysis, FMEA, SPC. Certified Internal Auditor, ISO 9001:2008 & ISO 9001:2015 Quality Management Systems (QMS)
+- 💻 **Digital:** web development for business-process tools, data-driven reporting
+
+---
+
+## Highlights
+
+- Managed ~15 concurrent engineered-system projects worth $10M+
+- Delivered 300+ RO, NF, and EDI water treatment systems for data centers, lithium extraction plants, and high-tech facilities
+- Reduced repeat NCRs ~25% through root cause analysis and FMEA
+- Reduced manufacturing lead time ~10% by standardizing P&ID and BOM documentation
+- Built a digital performance reporting workflow that saved ~2 hours/week
+
+---
+
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| [Comparative-Statements](https://github.com/kunal-ai/Comparative-Statements) | Side-by-side comparison of supplier quotations to support purchasing decisions |
+| [Vendor-Registration-App](https://github.com/kunal-ai/Vendor-Registration-App) | Registers vendors into a company database for downstream business processes |
+| [Procurement-Process-P2P](https://github.com/kunal-ai/Procurement-Process-P2P) | Walks through the procure-to-pay (P2P) workflow step by step |
+| [P2P-Checklist](https://github.com/kunal-ai/P2P-Checklist) | Checklist to keep each stage of the P2P process complete and compliant |
+
+<details>
+<summary>Just for fun</summary>
+
+- [Clickgame](https://github.com/kunal-ai/Clickgame): a quick test of button-clicking speed
+- [Bingo-Ticket-Generator-1-100](https://github.com/kunal-ai/Bingo-Ticket-Generator-1-100): generates 1–100 bingo tickets and lets you mark off numbers
+
+</details>
+
+---
+
+## Tools & Technologies
+
+**Web:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Engineering:** AutoCAD · P&IDs · BOMs · GD&T · PLC/HMI
+
+**ERP & Business:** Microsoft Dynamics · Microsoft Navision · Macola · RAMCO Cloud ERP · Microsoft Excel · Microsoft Copilot
+
+---
+
+## Currently
+
+- 🔭 Exploring roles in manufacturing engineering, NPI, cost/value engineering, and engineering project management
+- 🌱 Learning how AI tools can make manufacturing and supply chain workflows faster and more reliable
+- 🤝 Happy to connect with people working at the intersection of engineering, operations, and digital tools
+
+---
+
+<p align="center"><i>Thanks for stopping by!</i></p>
+
 
 ## 📫 Contact : 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kunal-verma-68a316194/)
