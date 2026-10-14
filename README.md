@@ -66,6 +66,8 @@ Along the way I kept running into the same problem: important manufacturing and 
 - 🤝 Happy to connect with people working at the intersection of engineering, operations, and digital tools
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username={kunal-ai})
+
 
 <p align="center"><i>Thanks for stopping by!</i></p>
 
