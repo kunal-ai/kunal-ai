@@ -39,7 +39,7 @@ Along the way I kept running into the same problem: important manufacturing and 
 
 ## Tools & Technologies
 
-**Web:** ## 💼 Skills
+**Web Development:** 💼 Skills
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
